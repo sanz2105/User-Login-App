@@ -28,5 +28,5 @@ A simple multi-page user login interface using **HTML**, **CSS**, and **JavaScri
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/user-login-app.git
+   git clone https://github.com/sanz2105/User-Login-App.git
    cd user-login-app
